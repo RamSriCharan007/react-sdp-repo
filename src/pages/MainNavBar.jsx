@@ -9,7 +9,6 @@ import CustomerLogin from './CustomerLogin';
 import './style.css';
 
 const MainNavBar = () => {
-  
   return (
     <div>
     <nav className="navbar">
