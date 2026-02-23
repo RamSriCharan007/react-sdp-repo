@@ -6,4 +6,5 @@ export default function BookEvent() {
       <h2>Book Event</h2>
     </div>
   );
+  
 }

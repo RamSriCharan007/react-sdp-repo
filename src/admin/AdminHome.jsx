@@ -6,4 +6,6 @@ export default function AdminHome() {
       <h2>Admin Home</h2>
     </div>
   );
+  
 }
+

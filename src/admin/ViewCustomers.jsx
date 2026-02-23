@@ -6,4 +6,5 @@ export default function ViewCustomers() {
       <h2>View Customers</h2>
     </div>
   );
+  
 }

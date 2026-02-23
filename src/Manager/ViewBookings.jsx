@@ -6,4 +6,5 @@ export default function ViewBookings() {
       <h2>View Bookings</h2>
     </div>
   );
+  
 }

@@ -10,6 +10,7 @@ const Registration = () => {
     username: '',
     contactNo: '',
     location: '',
+    
   });
 
   const handleChange = (e) => {

@@ -14,6 +14,7 @@ export default function ManagerNavBar() {
     sessionStorage.removeItem('isManager');
     navigate('/');
     window.location.reload();
+    
   };
 
   return (

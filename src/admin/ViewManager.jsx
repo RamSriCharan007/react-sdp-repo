@@ -6,4 +6,5 @@ export default function ViewManagers() {
       <h2>View Managers</h2>
     </div>
   );
+  
 }

@@ -10,6 +10,7 @@ import AdminLogout from './AdminLogout';
 export default function AdminNavBar() {
   const navigate = useNavigate();
 
+  
   const handleLogout = () => {
     sessionStorage.removeItem('isAdmin');
     navigate('/');

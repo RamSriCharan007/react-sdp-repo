@@ -12,6 +12,7 @@ function App() {
   const [isCustomer, setIsCustomer] = useState(false);
 
   useEffect(() => {
+    
     // Check sessionStorage for user role
     const adminStatus = sessionStorage.getItem('isAdmin') === 'true';
     const managerStatus = sessionStorage.getItem('isManager') === 'true';

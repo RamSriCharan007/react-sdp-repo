@@ -85,6 +85,7 @@ const CustomerLogin = () => {
       </div>
     </div>
   );
+  
 };
 
 export default CustomerLogin;

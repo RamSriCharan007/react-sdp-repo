@@ -13,7 +13,9 @@ export default function CustomerNavBar() {
     sessionStorage.removeItem('isCustomer');
     navigate('/');
     window.location.reload();
+    
   };
+
 
   return (
     <div className="customer-container">

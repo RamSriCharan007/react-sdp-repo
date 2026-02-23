@@ -6,4 +6,5 @@ export default function CustomerHome() {
       <h2>Customer Home</h2>
     </div>
   );
+  
 }

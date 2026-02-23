@@ -12,6 +12,7 @@ const AdminLogin = () => {
     setFormData({
       ...formData,
       [name]: value,
+      
     });
   };
 

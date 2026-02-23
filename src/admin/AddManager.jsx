@@ -6,4 +6,5 @@ export default function AddManager() {
       <h2>Add Manager</h2>
     </div>
   );
+  
 }

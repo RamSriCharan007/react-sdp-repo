@@ -6,4 +6,5 @@ export default function AddEvent() {
       <h2>Add Event</h2>
     </div>
   );
+  
 }

@@ -6,4 +6,5 @@ export default function ManagerLogout() {
       <h2>Manager Logout</h2>
     </div>
   );
+  
 }

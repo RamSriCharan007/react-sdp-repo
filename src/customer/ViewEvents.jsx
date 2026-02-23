@@ -6,4 +6,5 @@ export default function ViewEvents() {
       <h2>View Events</h2>
     </div>
   );
+  
 }

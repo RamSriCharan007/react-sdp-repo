@@ -6,4 +6,5 @@ export default function CustomerLogout() {
       <h2>Customer Logout</h2>
     </div>
   );
+  
 }

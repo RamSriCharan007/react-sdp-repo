@@ -6,4 +6,5 @@ export default function ManagerHome() {
       <h2>Manager Home</h2>
     </div>
   );
+  
 }

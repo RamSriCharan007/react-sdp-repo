@@ -12,6 +12,7 @@ const ManagerLogin = () => {
     setFormData({
       ...formData,
       [name]: value,
+      
     });
   };
 
