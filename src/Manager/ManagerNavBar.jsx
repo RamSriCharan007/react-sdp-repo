@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, Routes, Route, useNavigate } from 'react-router-dom';
-import './manager.css';
+import './Manager.css';
 import ManagerHome from './ManagerHome';
 import AddEvent from './AddEvent';
 import ViewEventsByManager from './ViewEventsByManger';
